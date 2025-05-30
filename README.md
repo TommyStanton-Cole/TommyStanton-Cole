@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TommyStanton-Cole, a Computer Science / Business / IT teacher in the UK
 - 👀 I've been using github to store some little gamification resources in order to teach students.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I've gone from debugging millions of circuits to peeling apart teenage logic — only one of these do I yet understand.
+
 
 
 
