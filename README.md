@@ -2,7 +2,7 @@
 - 👀 I've been using github to store some little gamification resources in order to teach students.
 - ⚡ Fun fact: I've gone from debugging millions of circuits to peeling apart teenage logic — only one of these do I yet understand.
 
-
+[Click here for my Binary Games](https://tommystanton-cole.github.io/BinaryActivities/)
 
 
 <!---
