@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TommyStanton-Cole, a Computer Science / Business / IT teacher in the UK
-- 👀 I've been using Kahoot for years to quiz team members on safety during remote Team Meetings, to have fun at Christmas with the extended Family, and now I use Kahoots as a Teacher Trainee to engage my students and get students engaged with learning.
+- 👀 I've been using github to store some little gamification resources in order to teach students.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
